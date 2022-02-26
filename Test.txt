@@ -1,4 +1,10 @@
 Test 1 Updated for feature
 Test 3 for fetch
+<<<<<<< HEAD
 Test 2
 Test 6
+=======
+Test 2vff for fetch
+test 4
+test 5
+>>>>>>> 86012980bcbfb82295286d39483a6d6f9f1c0aa7
